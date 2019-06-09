@@ -1,4 +1,4 @@
-![](https://www.dropbox.com/s/ein0pnjypfjg1w3/ued1.png?dl=1)
+![](https://www.dropbox.com/s/pyg0andmpovvkhx/ued1.jpg?dl=1)
 
 # uGLy Engine
 uGLy is a small modern OpenGL rendering framework I've been developing in my spare time for fun and educational purposes.
