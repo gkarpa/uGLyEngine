@@ -1,3 +1,5 @@
+![](https://www.dropbox.com/s/ein0pnjypfjg1w3/ued1.png?dl=1)
+
 # uGLy Engine
 uGLy is a small modern OpenGL rendering framework I've been developing in my spare time for fun and educational purposes.
 I am trying to abstract common functionality and make it easier to reuse, so in uGLy you can find entities like a scene, camera (both FPS and orbit cameras), lights (point light, directional light), meshes, textures, materials, shaders, rendering programs, skybox etc.
